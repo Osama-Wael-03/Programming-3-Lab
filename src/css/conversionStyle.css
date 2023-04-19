@@ -1,0 +1,28 @@
+
+
+
+
+.label{
+    -fx-font-weight:bolder;
+    -fx-font-size:15px;
+    -fx-text-fill:#000080;
+}
+#log{
+    -fx-background-color:orange;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+    -fx-font-size:17px;
+    -fx-font-style:italic;
+}
+#convert{
+   -fx-background-color:#000080;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+    -fx-font-size:17px;
+    -fx-font-style:italic;
+}
+.text-field{
+    -fx-font-weight:bold;
+    -fx-border-color:black;
+    -fx-border-width:2px;
+}

@@ -1,0 +1,20 @@
+
+.label{
+    -fx-font-weight:bold;
+}
+
+.button{
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+    -fx-font-weight:bold;
+}
+.text-field{
+    -fx-border-color:blue;
+}
+#flow{
+    -fx-background-color:white;
+}
+#error{
+    -fx-background-color:red;
+    -fx-font-size:18px;
+}
